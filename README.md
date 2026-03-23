@@ -84,11 +84,11 @@ DevOps      GitHub Actions · Docker · Vercel · Railway
 | Document | What It Answers |
 |---|---|
 | [System Architecture](RestauKX/docs/architecture/system-architecture.md) | How the system is structured, how data flows, how each phase builds on the last |
-| [Database Schema](./docs/architecture/database-schema.md) | Every collection, every field, every index — annotated |
-| [API Specification](./docs/api/api-spec.md) | Every endpoint across all 3 phases — request shapes, response shapes, error codes |
-| [Roadmap](./docs/phases/roadmap.md) | Granular delivery checklist per phase, with architectural guarantees |
-| [Tech Stack](./docs/TECH-STACK.md) | Every technology choice — and every alternative that was considered and rejected |
-| [Contributing](./docs/CONTRIBUTING.md) | Branching strategy, commit conventions, code style |
+| [Database Schema](RestauKX/docs/architecture/database-schema.md) | Every collection, every field, every index — annotated |
+| [API Specification](RestauKX/docs/api/api-spec.md) | Every endpoint across all 3 phases — request shapes, response shapes, error codes |
+| [Roadmap](RestauKX/docs/phases/roadmap.md) | Granular delivery checklist per phase, with architectural guarantees |
+| [Tech Stack](RestauKX/docs/TECH-STACK.md) | Every technology choice — and every alternative that was considered and rejected |
+| [Contributing](RestauKX/docs/CONTRIBUTING.md) | Branching strategy, commit conventions, code style |
 
 ---
 
